@@ -1,7 +1,7 @@
 # Blind Box Ordering
 
 ## 项目简介
-Blind Box Ordering 是一个基于 React 的点餐应用，提供盲盒效果的点餐体验。用户可以随机选择餐品，享受抽盲盒的乐趣。该应用支持 KFC、麦当劳等餐品的随机展示。
+Blind Box Ordering 是一个基于 React 的点餐应用，提供盲盒效果的点餐体验。用户可以随机选择餐品，享受抽盲盒的乐趣。
 
 ## 功能
 - 随机选择餐品
